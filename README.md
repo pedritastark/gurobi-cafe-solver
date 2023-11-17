@@ -1,5 +1,5 @@
 # Optimizacion con gurobi
-Este repositorio contiene un problema de optimización, donde luego de hacer el planteamiento matemático se le da solución usando gurobi, todo desarollado y referenciado en el documento pdf que esta adjunto.
+Este repositorio contiene un problema de optimización, donde luego de hacer el planteamiento matemático se le da solución usando gurobi, todo desarollado y referenciado en el documento pdf que esta adjunto. Llega a  ser interesante como un primer proyecto para entender como funciona la biblioteca.
 
 # Problema
 
